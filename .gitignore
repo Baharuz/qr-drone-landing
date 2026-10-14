@@ -1,0 +1,14 @@
+.venv/
+runtime/
+logs/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.ulg
+core
+core.*
+*.bak
+.vscode/
+.idea/
