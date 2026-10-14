@@ -1,0 +1,14 @@
+{
+  "target": "LANDING_PAD_01",
+  "world": "qr_test",
+  "model": "x500_mono_cam_down_0",
+  "takeoff_m": 3.0,
+  "speed_mps": 0.25,
+  "max_frame_age_s": 0.3,
+  "stable_frames": 5,
+  "search_timeout_s": 60,
+  "loss_timeout_s": 5,
+  "landing_tolerance_m": 0.25,
+  "mission_timeout_s": 180,
+  "axes_verified": true
+}

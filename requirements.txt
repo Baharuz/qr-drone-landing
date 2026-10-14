@@ -1,0 +1,4 @@
+mavsdk==3.15.3
+qrcode[pil]==8.2
+# OpenCV ve Gazebo Python: Ubuntu apt paketlerinden
+numpy==1.26.4
